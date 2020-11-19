@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85078003683",
+    "firebase_url": "https://utsdelvinreynaldi.firebaseio.com",
+    "project_id": "utsdelvinreynaldi",
+    "storage_bucket": "utsdelvinreynaldi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85078003683:android:50809c3092e26be985dad6",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500065_delvin_reynaldi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85078003683-5hktf51sk1v5sdqnldo36t0kgv6q3188.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyeTZs3xVsR7PQM1fe93tCxLmyQxRBOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85078003683-5hktf51sk1v5sdqnldo36t0kgv6q3188.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
